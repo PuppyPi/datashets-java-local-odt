@@ -1,2 +1,2 @@
-# datashets-java-local-ods
-ODS File Format plugin for Locally-backed Datashets (in Java)
+# richdatashets-localfile-ods-java
+ODS File Format plugin for Locally-backed Richdatashets (in Java)
